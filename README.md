@@ -30,15 +30,13 @@ Users should be able to:
 - See the "Thank you" card state after submitting a rating
 
 ### Screenshot
-
-![](.images/rating-front.png) 
-![](.images/rating-back.png) 
-
+<img width="1279" alt="rating-front" src="https://user-images.githubusercontent.com/107651931/224465784-4f717f4b-c8b5-4150-a68f-cf844473672c.png">
+<img width="1255" alt="rating-back" src="https://user-images.githubusercontent.com/107651931/224465803-37142d0d-1194-4abc-964d-5b746ff9d0c1.png">
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/interactive-rating-with-htmlcss-js-vaasSEbknR](https://your-solution-url.com)
+- Live Site URL: [https://samantharandolph-interactive-rating.netlify.app/](https://your-live-site-url.com)
 
 ## My process
 
@@ -47,8 +45,7 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
-- Mobile-first workflow
+- JavaScript
 
 ### What I learned
 
@@ -61,9 +58,9 @@ Next time I will make the Rate Again button go back to the main site. I will add
 
 
 ### Useful resources
-Resource 1: (https://www.youtube.com/watch?v=cQnUopEeZgw) - This helped me know what steps to take and how to connect things together. I would try the code on my own then watch. Then try on my own again.
+Resource 1: (https://www.youtube.com/watch?v=cQnUopEeZgw) - TsbSankara's video. This helped me know what steps to take and how to connect things together. I would try the code on my own then watch. Then try on my own again.
 
-Resource 2: (https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - This helped me to visalize the flex properties
+Resource 2: (https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - This helped me to visualize the flex properties
 
 ## Author
 
